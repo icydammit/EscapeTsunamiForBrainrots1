@@ -1,5 +1,5 @@
 task.spawn(function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/icydammit/visual/refs/heads/main/visual.lua))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Saq-Madig/UnVerS4LScrip/refs/heads/main/UniVerSaL"))()
 End)
 task.wait(0.2)
 
